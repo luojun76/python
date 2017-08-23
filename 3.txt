@@ -1,2 +1,2 @@
 guess your name
-& simple.
+And simple.
