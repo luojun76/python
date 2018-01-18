@@ -5,3 +5,5 @@ mama de.
 go...
 half.
 half half
+
+git config --global color.ui true
